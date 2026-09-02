@@ -75,6 +75,12 @@ const styles = {
     width: "100%",
     maxWidth: "420px",
   },
+  logoContainer: {
+    textAlign: "center",
+  },
+  logoTextAuth: {
+    margin: 0,
+  },
   logo: {
     textAlign: "center",
     marginBottom: "2rem",
@@ -97,6 +103,8 @@ const styles = {
     borderRadius: "0.5rem",
     fontSize: "1rem",
     boxSizing: "border-box",
+    backgroundColor: "#ffffff",
+    color: "#333333",
   },
   btn: {
     width: "100%",
