@@ -35,14 +35,14 @@ import {
 // --- FIREBASE CONFIGURATION ---
 // IMPORTANT: Replace with your actual Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
-  databaseURL: import.meta.env.VITE_FIREBASE_DATABASE_URL,
-  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.VITE_FIREBASE_APP_ID,
-  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID
+  apiKey: "AIzaSyDkizE8xHVP1oKxX12gk06rxPfxw3FFCZc",
+  authDomain: "rhinocart-c4f72.firebaseapp.com",
+  databaseURL: "https://rhinocart-c4f72-default-rtdb.firebaseio.com",
+  projectId: "rhinocart-c4f72",
+  storageBucket: "rhinocart-c4f72.firebasestorage.app",
+  messagingSenderId: "825608170210",
+  appId: "1:825608170210:web:17b1cbfd2f88b30d498cbb",
+  measurementId: "G-VSEJT5MWVL"
 };
 
 // Initialize Firebase
