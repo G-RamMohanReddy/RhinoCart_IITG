@@ -1,0 +1,25 @@
+{
+  "name": "rhinocart-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^12.2.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.1.2"
+  }
+}
+```[cite: 11]
+
+4. Click **Commit changes**.
+5. Once committed, Vercel will automatically detect the new file, recognize it as a Vite project, rebuild everything, and your website will load.
