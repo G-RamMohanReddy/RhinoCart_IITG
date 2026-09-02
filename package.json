@@ -19,7 +19,3 @@
     "vite": "^7.1.2"
   }
 }
-```[cite: 11]
-
-4. Click **Commit changes**.
-5. Once committed, Vercel will automatically detect the new file, recognize it as a Vite project, rebuild everything, and your website will load.
